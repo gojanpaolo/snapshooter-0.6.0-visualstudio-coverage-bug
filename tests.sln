@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "snapshooter-0.6.0", "snapshooter-0.6.0\snapshooter-0.6.0.csproj", "{4DC4A061-18DD-49D3-9260-09E3AEEF8353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snapshooter-0.5.8", "snapshooter-0.5.8\snapshooter-0.5.8.csproj", "{F7C88AA6-B0E1-4FA6-9CD0-982F889AC1F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC4A061-18DD-49D3-9260-09E3AEEF8353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC4A061-18DD-49D3-9260-09E3AEEF8353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC4A061-18DD-49D3-9260-09E3AEEF8353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC4A061-18DD-49D3-9260-09E3AEEF8353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C88AA6-B0E1-4FA6-9CD0-982F889AC1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C88AA6-B0E1-4FA6-9CD0-982F889AC1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C88AA6-B0E1-4FA6-9CD0-982F889AC1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C88AA6-B0E1-4FA6-9CD0-982F889AC1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D92B6B95-3158-420F-82FC-A357C36B6CBF}
+	EndGlobalSection
+EndGlobal
